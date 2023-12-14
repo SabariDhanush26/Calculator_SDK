@@ -19,5 +19,5 @@ class calculator_sdk{
     }
 }
 
-export class calculator_sdk{}
+module.exports=calculator_sdk;
 

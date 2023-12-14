@@ -1,6 +1,6 @@
 // test/test.js
-const chai= require("chai")
-const calculator_sdk = require("../Calculator_SDK/index");
+import chai from "chai";
+import calculator_sdk from ".";
 
 const expect = chai.expect;
 const calculator_sdk1 = new calculator_sdk();
