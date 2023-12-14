@@ -1,0 +1,29 @@
+{
+  "name": "calculator_sdk",
+  "version": "1.0.0",
+  "description": "Npm SDK",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SabariDhanush26/Calculator_SDK.git"
+  },
+  "keywords": [
+    "Calculator_SDK"
+  ],
+  "author": "Sabari Dhanush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SabariDhanush26/Calculator_SDK/issues"
+  },
+  "homepage": "https://github.com/SabariDhanush26/Calculator_SDK#readme",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "nodemon": "^3.0.2"
+  }
+}
