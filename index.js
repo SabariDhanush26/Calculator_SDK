@@ -1,4 +1,4 @@
-class calculator_sdk{
+export class calculator_sdk{
     add(a,b){
         return a+b;
     }
@@ -19,5 +19,4 @@ class calculator_sdk{
     }
 }
 
-module.exports=calculator_sdk;
 
