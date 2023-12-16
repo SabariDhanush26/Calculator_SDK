@@ -1,6 +1,6 @@
 {
   "name": "calculator_sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Npm SDK",
   "main": "index.js",
   "type": "module",
