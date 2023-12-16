@@ -2,8 +2,8 @@
 
 ## Installation
 
-Install the Calculator SDK using pip:
+Install the Calculator SDK using npm:
 
 ```bash
-npm install @sabaridhanush/calculator
+npm i calculator_sdk
 ```
